@@ -1,0 +1,9 @@
+{
+  "launchers":{
+    "jasmine":{
+      "command":"npm test"
+    }
+  },
+  "launch_in_dev":["jasmine"],
+  "src_files":["spec/**/*_spec.js","models/*.js"]
+}

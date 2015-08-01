@@ -1,0 +1,16 @@
+{
+  "name": "pos_v2",
+  "version": "1.0.0",
+  "description": "POS收银机 版本：v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "testem": "testem"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.3.1",
+    "testem": "^0.9.1"
+  }
+}
